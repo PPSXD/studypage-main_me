@@ -59,10 +59,12 @@ nav{
 .navbar-button a:active{
     color: #ff0000;
 }
-
-.video-style{
+.travel-home{
+    padding-top: 50px;
     margin: auto;
     text-align: center;
-    justify-content: center;
-    margin-top: 50px;
 }
+.travel-home-img{
+    width: 1024px;
+}
+
